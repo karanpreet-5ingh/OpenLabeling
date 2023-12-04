@@ -1,6 +1,9 @@
 # OpenLabeling: open-source image and video labeler
 https://github.com/karanpreet-5ingh/OpenLabeling
 
+this is the link for tutuorial
+https://techzizou.com/dataset-labeling-annotation-tutorial-for-beginners/
+
 [![GitHub stars](https://img.shields.io/github/stars/Cartucho/OpenLabeling.svg?style=social&label=Stars)](https://github.com/Cartucho/OpenLabeling)
 
 Image labeling in multiple annotation formats:
